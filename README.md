@@ -1,1 +1,2 @@
-# CBHuffman
+# CBFriendsCost
+CB Project
